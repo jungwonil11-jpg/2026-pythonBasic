@@ -1,5 +1,8 @@
 # Python 자습 프로젝트
 
+## 강사 정보
+- upstream: https://github.com/nohssam/2026-pythonBasic
+
 ## 브랜치 전략
 | 브랜치 | 역할 | 규칙 |
 |--------|------|------|
