@@ -33,5 +33,5 @@ person = ["홍길동", 24, 178.45, 'A', True]
 # 홍길동
 print(person[0], type(person[0]))
 #길
-print(persion[0][1], type(person[0][1]))
+print(person[0][1], type(person[0][1]))
 
