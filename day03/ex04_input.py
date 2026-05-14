@@ -9,9 +9,7 @@ math = int(input('수학점수 : '))
 sum = kor + eng + math
 avg = sum / 3
 
-# 이름, 총점, 평균(소수점 2자리까지) 출력
+# 이름, 총점 ,평균(소수점 2자리까지, 반올림됨) 출력
 print(f'{name=}')
 print(f'{sum=}')
 print(f'{avg=:.2f}')
-
-
